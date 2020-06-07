@@ -1,0 +1,321 @@
+﻿fleet operator,Segment,axle,load tonnage,parts repl last,last service  kms,insurance renewal days,accident,puncture,Warranty,month days on road
+A,transport,2,10,spark plug,125000,100,0,1,covered,10
+B,construction,3,25,wheel alignment,100000,70,0,1,covered,20
+C,Light,2,5,ac gas,50000,300,0,0,not covered ,10
+D,Pickup,1,2.5,oil change,50000,320,0,1,covered,15
+A,Tipper,2,10,engine tuning,50000,310,0,0,not covered ,25
+A,Cargo,3,25,engine overhaul,100000,340,1,0,covered,26
+A,transport,4,10,body work,75000,125,1,0,covered,28
+A,transport,3,10,paint work,50000,150,0,0,covered,25
+A,transport,2,10,spark plug,250000,65,1,0,covered,23
+D,transport,3,10,wheel alignment,125000,86,0,0,covered,22
+D,transport,4,10,ac gas,100000,145,0,0,not covered ,10
+D,construction,3,25,oil change,50000,100,0,0,covered,15
+D,Light,2,5,engine tuning,50000,29,0,0,covered,17
+D,Pickup,1,2.5,engine overhaul,50000,35,0,0,not covered ,18
+D,Tipper,2,10,body work,100000,53,0,0,not covered ,10
+D,Cargo,4,25,paint work,75000,50,0,0,not covered ,20
+D,transport,2,10,wheel alignment,50000,135,0,1,covered,10
+A,transport,4,10,ac gas,250000,190,0,0,not covered ,15
+B,transport,3,10,oil change,125000,300,0,0,not covered ,25
+C,transport,2,10,engine tuning,100000,100,0,0,not covered ,26
+D,transport,3,10,engine overhaul,50000,70,0,1,covered,28
+A,construction,3,25,body work,50000,300,0,0,not covered ,25
+A,Light,2,5,paint work,150000,320,0,0,not covered ,23
+A,Pickup,1,2.5,spark plug,100000,310,0,0,not covered ,22
+A,Tipper,2,10,wheel alignment,75000,340,0,0,not covered ,10
+A,Cargo,3,25,ac gas,50000,125,1,0,not covered ,15
+D,transport,4,10,oil change,250000,150,0,1,covered,17
+D,construction,4,25,engine tuning,125000,65,0,0,not covered ,18
+D,Light,2,5,engine overhaul,100000,86,0,0,not covered ,19
+D,Pickup,1,2.5,body work,50000,145,0,0,not covered ,10
+D,Tipper,2,10,paint work,50000,100,0,0,not covered ,20
+D,Cargo,4,25,spark plug,150000,29,1,0,not covered ,10
+D,transport,3,10,wheel alignment,100000,35,0,0,not covered ,15
+D,transport,2,10,ac gas,75000,53,0,0,not covered ,25
+A,transport,4,10,oil change,50000,100,0,0,not covered ,26
+A,transport,3,10,engine tuning,250000,70,0,0,not covered ,28
+A,transport,4,10,engine overhaul,125000,300,0,0,not covered ,25
+A,construction,3,25,body work,100000,320,0,0,not covered ,23
+A,Light,2,5,paint work,50000,310,0,1,covered,22
+A,Pickup,1,2.5,wheel alignment,50000,340,0,0,covered,10
+A,Tipper,2,10,ac gas,50000,125,0,0,covered,15
+A,Cargo,3,25,oil change,100000,150,0,0,covered,17
+A,transport,4,10,engine tuning,75000,65,0,0,covered,18
+A,transport,3,10,engine overhaul,50000,86,0,0,not covered ,10
+A,transport,2,10,body work,250000,145,0,1,covered,20
+A,transport,3,10,paint work,125000,100,0,1,covered,10
+A,transport,4,10,spark plug,100000,29,0,0,not covered ,15
+A,construction,3,25,wheel alignment,50000,35,0,0,not covered ,25
+A,Light,2,5,ac gas,50000,53,0,0,not covered ,26
+A,Pickup,1,2.5,oil change,50000,50,1,0,not covered ,28
+A,Tipper,2,10,engine tuning,100000,135,1,0,not covered ,25
+A,Cargo,3,25,engine overhaul,75000,190,0,0,not covered ,23
+A,construction,3,25,body work,50000,300,0,0,not covered ,22
+A,Light,2,5,paint work,250000,100,0,0,not covered ,10
+A,Pickup,1,2.5,spark plug,125000,70,0,1,covered,15
+A,Tipper,2,10,wheel alignment,100000,300,0,0,not covered ,17
+A,Cargo,3,25,ac gas,50000,320,0,0,not covered ,18
+A,transport,4,10,oil change,50000,310,0,0,covered,10
+A,transport,3,10,engine tuning,150000,340,0,1,covered,20
+B,transport,4,10,engine overhaul,100000,125,1,0,covered,10
+B,transport,3,10,body work,75000,150,0,0,covered,15
+B,transport,3,10,paint work,50000,65,0,0,covered,25
+B,construction,3,25,wheel alignment,250000,86,0,0,not covered ,26
+B,Light,2,5,ac gas,125000,145,0,0,not covered ,28
+B,Pickup,1,2.5,oil change,100000,100,0,0,not covered ,25
+B,Tipper,2,10,engine tuning,50000,29,0,0,not covered ,23
+B,Cargo,3,25,engine overhaul,50000,35,0,0,not covered ,22
+B,transport,4,10,body work,150000,53,0,1,covered,10
+B,transport,3,10,paint work,100000,100,0,1,covered,15
+B,transport,2,10,spark plug,75000,70,0,0,not covered ,17
+B,transport,3,10,wheel alignment,50000,300,0,1,covered,18
+B,transport,4,10,ac gas,250000,320,0,0,covered,10
+B,construction,3,25,oil change,125000,310,1,0,covered,20
+B,Light,2,5,engine tuning,100000,340,1,0,covered,10
+B,Pickup,1,2.5,engine overhaul,50000,125,0,1,covered,15
+B,Tipper,2,10,body work,50000,150,1,0,not covered ,25
+B,Cargo,3,25,paint work,150000,65,0,0,not covered ,26
+B,transport,4,10,spark plug,100000,86,0,0,not covered ,28
+B,construction,3,25,wheel alignment,75000,145,0,0,not covered ,25
+B,Light,2,5,ac gas,50000,100,0,0,not covered ,23
+B,Pickup,1,2.5,oil change,50000,29,0,0,not covered ,22
+B,Tipper,2,10,engine tuning,125000,35,0,0,not covered ,10
+B,Cargo,3,25,engine overhaul,100000,53,0,0,not covered ,15
+B,transport,3,10,body work,50000,50,0,0,not covered ,17
+B,transport,2,10,paint work,50000,135,0,0,not covered ,18
+B,transport,3,10,wheel alignment,150000,190,0,0,not covered ,19
+B,transport,4,10,ac gas,100000,300,0,0,not covered ,10
+B,transport,3,10,oil change,75000,100,0,1,covered,20
+B,construction,4,25,engine tuning,50000,70,0,0,not covered ,10
+B,Light,2,5,engine overhaul,250000,300,0,0,covered,15
+B,Pickup,1,2.5,body work,125000,320,0,0,covered,25
+B,Tipper,2,10,paint work,100000,310,0,1,covered,26
+B,Cargo,3,25,spark plug,50000,340,1,0,not covered ,28
+B,transport,4,10,wheel alignment,50000,125,0,1,covered,25
+B,transport,3,10,ac gas,150000,150,0,0,not covered ,23
+B,transport,4,10,oil change,100000,65,0,0,not covered ,22
+B,transport,3,10,engine tuning,75000,86,0,0,not covered ,10
+B,transport,3,10,engine overhaul,50000,145,0,0,not covered ,15
+B,construction,3,25,body work,250000,100,1,0,not covered ,17
+B,Light,2,5,paint work,125000,29,0,0,not covered ,18
+B,Pickup,1,2.5,spark plug,100000,35,0,0,not covered ,10
+B,Tipper,2,10,wheel alignment,50000,53,0,0,not covered ,20
+B,Cargo,4,25,ac gas,50000,100,0,0,not covered ,10
+B,transport,4,10,oil change,150000,70,0,0,not covered ,15
+B,construction,3,25,engine tuning,100000,300,0,0,not covered ,25
+B,Light,2,5,engine overhaul,75000,320,0,0,not covered ,26
+B,Pickup,1,2.5,body work,50000,310,0,1,covered,28
+B,Tipper,2,10,paint work,50000,340,0,0,not covered ,25
+B,Cargo,3,25,wheel alignment,125000,125,0,0,covered,23
+B,transport,2,10,ac gas,100000,150,0,0,covered,22
+B,transport,3,10,oil change,50000,65,0,0,not covered ,10
+B,transport,4,10,engine tuning,50000,86,0,1,covered,15
+B,transport,3,10,engine overhaul,150000,145,0,1,covered,17
+B,transport,2,10,body work,100000,100,0,0,not covered ,18
+C,construction,4,25,paint work,75000,29,0,0,not covered ,10
+C,Light,2,5,spark plug,50000,35,0,0,not covered ,20
+C,Pickup,1,2.5,wheel alignment,50000,53,1,0,not covered ,10
+C,Tipper,2,10,ac gas,125000,50,1,0,not covered ,15
+C,Cargo,2,25,oil change,100000,135,0,0,not covered ,25
+C,transport,5,10,engine tuning,50000,190,0,0,not covered ,26
+C,transport,2,10,engine overhaul,50000,300,0,0,not covered ,28
+C,transport,3,10,body work,150000,100,0,1,covered,25
+C,transport,4,10,paint work,100000,70,0,0,not covered ,23
+C,transport,3,10,spark plug,75000,300,0,0,not covered ,22
+C,construction,4,25,wheel alignment,50000,320,0,0,not covered ,10
+C,Light,2,5,ac gas,250000,310,0,0,not covered ,15
+C,Pickup,1,2.5,oil change,125000,340,1,0,covered,17
+C,Tipper,2,10,engine tuning,100000,125,0,0,covered,18
+C,Cargo,3,25,engine overhaul,50000,150,0,0,covered,10
+C,transport,3,10,body work,50000,65,0,0,not covered ,20
+C,construction,4,25,paint work,150000,86,0,0,not covered ,10
+C,Light,2,5,wheel alignment,100000,145,0,1,covered,15
+C,Pickup,1,2.5,ac gas,75000,100,0,0,not covered ,25
+C,Tipper,2,10,oil change,50000,29,0,0,not covered ,26
+C,Cargo,4,25,engine tuning,250000,35,0,1,covered,28
+C,transport,3,10,engine overhaul,125000,53,0,1,covered,25
+C,transport,2,10,body work,100000,100,0,0,not covered ,23
+C,transport,4,10,paint work,50000,70,0,1,covered,22
+C,transport,3,10,spark plug,50000,300,0,0,not covered ,10
+C,transport,2,10,wheel alignment,150000,320,1,0,not covered ,15
+C,construction,3,25,ac gas,100000,310,1,0,not covered ,17
+C,Light,2,5,oil change,75000,340,0,0,not covered ,18
+C,Pickup,1,2.5,engine tuning,50000,125,1,0,covered,19
+C,Tipper,2,10,engine overhaul,50000,150,0,0,covered,10
+C,Cargo,3,25,body work,125000,65,0,0,covered,20
+C,transport,2,10,paint work,100000,86,0,0,not covered ,10
+C,transport,3,10,spark plug,50000,145,0,0,not covered ,15
+C,transport,4,10,wheel alignment,50000,100,0,0,not covered ,25
+C,transport,3,10,ac gas,150000,29,0,0,not covered ,26
+C,transport,2,10,oil change,100000,35,0,0,not covered ,28
+C,construction,3,25,engine tuning,75000,53,0,0,not covered ,25
+C,Light,2,5,engine overhaul,50000,50,0,0,not covered ,23
+C,Pickup,1,2.5,body work,50000,135,0,0,not covered ,22
+C,Tipper,2,10,paint work,125000,190,0,1,covered,10
+C,Cargo,4,25,wheel alignment,100000,300,0,1,covered,15
+C,construction,3,25,ac gas,50000,100,0,0,not covered ,17
+C,Light,2,5,oil change,50000,70,0,0,not covered ,18
+C,Pickup,1,2.5,engine tuning,50000,300,0,0,not covered ,10
+C,Tipper,2,10,engine overhaul,100000,320,0,0,not covered ,20
+C,Cargo,3,25,body work,75000,310,1,0,not covered ,10
+C,transport,2,10,paint work,50000,340,0,1,covered,15
+C,transport,3,10,spark plug,250000,125,0,0,covered,25
+C,transport,4,10,wheel alignment,125000,150,0,0,not covered ,26
+C,transport,3,10,ac gas,100000,65,0,0,not covered ,28
+D,transport,2,10,oil change,50000,86,0,0,not covered ,25
+D,construction,3,25,engine tuning,50000,145,1,0,not covered ,23
+D,Light,2,5,engine overhaul,150000,100,0,0,not covered ,22
+D,Pickup,1,2.5,body work,100000,29,0,0,not covered ,10
+D,Tipper,2,10,paint work,75000,35,0,0,not covered ,15
+D,Cargo,4,25,spark plug,50000,53,0,0,not covered ,17
+D,transport,4,10,wheel alignment,250000,100,0,0,not covered ,18
+D,transport,3,10,ac gas,125000,70,0,1,covered,10
+D,transport,2,10,oil change,100000,300,0,0,not covered ,20
+D,transport,3,10,engine tuning,50000,320,0,0,not covered ,10
+D,transport,4,10,engine overhaul,50000,310,0,0,not covered ,15
+D,construction,3,25,body work,150000,340,0,0,covered,25
+D,Light,2,5,paint work,100000,125,0,0,covered,26
+D,Pickup,1,2.5,wheel alignment,75000,150,0,0,not covered ,28
+D,Tipper,2,10,ac gas,50000,65,0,1,covered,25
+D,Cargo,3,25,oil change,250000,86,0,1,covered,23
+D,transport,3,10,engine tuning,125000,145,0,0,not covered ,22
+D,construction,4,25,engine overhaul,100000,100,0,0,not covered ,10
+D,Light,2,5,body work,50000,29,0,0,not covered ,15
+D,Pickup,1,2.5,paint work,50000,35,1,0,not covered ,17
+D,Tipper,2,10,spark plug,50000,53,1,0,not covered ,18
+D,Cargo,4,25,wheel alignment,100000,50,0,1,covered,10
+D,transport,3,10,ac gas,75000,135,0,0,not covered ,20
+D,transport,4,10,oil change,50000,190,0,0,not covered ,10
+D,transport,3,10,engine tuning,250000,300,0,1,covered,15
+D,transport,2,10,engine overhaul,125000,100,0,0,not covered ,25
+D,transport,3,10,body work,100000,70,0,0,covered,26
+D,construction,4,25,paint work,50000,300,0,0,covered,28
+D,Light,2,5,spark plug,50000,320,0,0,covered,25
+D,Pickup,1,2.5,wheel alignment,50000,310,1,0,not covered ,23
+D,Tipper,2,10,ac gas,100000,340,0,0,not covered ,22
+D,Cargo,3,25,oil change,75000,125,0,1,covered,10
+D,transport,4,10,engine tuning,50000,150,0,0,not covered ,15
+D,transport,3,10,engine overhaul,250000,65,0,0,not covered ,17
+D,transport,4,10,body work,125000,86,0,0,not covered ,18
+D,transport,5,10,paint work,100000,145,0,0,not covered ,19
+D,transport,2,10,wheel alignment,50000,100,0,0,not covered ,10
+D,construction,3,25,ac gas,50000,29,0,1,covered,20
+D,Light,2,5,oil change,150000,35,0,1,covered,10
+D,Pickup,1,2.5,engine tuning,100000,53,0,0,not covered ,15
+D,Tipper,2,10,engine overhaul,75000,100,0,1,covered,25
+D,Cargo,4,25,body work,50000,70,0,0,covered,26
+D,transport,4,10,paint work,250000,300,1,0,covered,28
+D,construction,3,25,spark plug,125000,320,1,0,covered,25
+D,Light,2,5,wheel alignment,100000,310,0,0,not covered ,23
+D,Pickup,1,2.5,ac gas,50000,340,1,1,covered,22
+D,Tipper,2,10,oil change,50000,125,0,0,not covered ,10
+D,Cargo,3,25,engine tuning,150000,150,0,0,not covered ,15
+D,transport,2,10,engine overhaul,100000,65,0,0,not covered ,17
+D,transport,3,10,body work,75000,86,0,0,not covered ,18
+D,transport,4,10,paint work,50000,145,0,0,not covered ,10
+D,transport,3,10,spark plug,250000,100,0,0,not covered ,20
+D,transport,2,10,wheel alignment,125000,29,0,0,not covered ,10
+D,construction,4,25,ac gas,100000,35,0,0,not covered ,15
+D,Light,2,5,oil change,50000,53,0,0,not covered ,25
+D,Pickup,1,2.5,engine tuning,50000,50,0,0,not covered ,26
+D,Tipper,2,10,engine overhaul,50000,135,0,0,covered,28
+D,Cargo,4,25,body work,100000,190,0,1,covered,25
+D,transport,3,10,paint work,75000,300,0,0,covered,23
+D,transport,4,10,wheel alignment,50000,100,0,0,not covered ,22
+D,transport,3,10,ac gas,250000,70,0,0,not covered ,10
+D,transport,2,10,oil change,125000,300,0,0,not covered ,15
+D,transport,3,10,engine tuning,100000,320,1,0,not covered ,17
+D,construction,4,25,engine overhaul,50000,310,0,1,covered,18
+D,Light,2,5,body work,50000,340,0,0,not covered ,10
+D,Pickup,1,2.5,paint work,50000,125,0,0,not covered ,20
+D,Tipper,2,10,spark plug,100000,150,0,0,not covered ,10
+D,Cargo,3,25,wheel alignment,75000,65,0,0,not covered ,15
+D,transport,3,10,ac gas,50000,86,1,0,not covered ,25
+D,construction,4,25,oil change,250000,145,0,0,covered,26
+D,Light,2,5,engine tuning,125000,100,0,1,covered,28
+D,Pickup,1,2.5,engine overhaul,100000,29,0,0,not covered ,25
+D,Tipper,2,10,body work,50000,35,0,0,not covered ,23
+D,Cargo,4,25,paint work,50000,53,0,0,not covered ,22
+D,transport,4,10,spark plug,150000,100,0,0,not covered ,10
+D,transport,5,10,wheel alignment,100000,70,0,0,not covered ,15
+D,transport,2,10,ac gas,75000,300,0,0,covered,17
+D,transport,3,10,oil change,50000,320,0,0,not covered ,18
+D,transport,4,10,engine tuning,250000,310,0,0,not covered ,10
+D,construction,3,25,engine overhaul,125000,340,0,0,not covered ,20
+D,Light,2,5,body work,100000,125,0,0,not covered ,10
+D,Pickup,1,2.5,paint work,50000,150,0,1,covered,15
+D,Tipper,2,10,wheel alignment,50000,65,0,1,covered,25
+D,Cargo,3,25,ac gas,150000,86,0,0,not covered ,26
+D,transport,2,10,oil change,100000,145,0,0,covered,28
+D,transport,3,10,engine tuning,75000,100,0,0,not covered ,25
+A,transport,4,10,engine overhaul,50000,29,1,0,not covered ,23
+B,transport,3,10,body work,250000,35,1,0,not covered ,22
+A,transport,2,10,paint work,125000,53,0,0,not covered ,10
+A,construction,3,25,spark plug,100000,50,0,0,not covered ,15
+B,Light,2,5,wheel alignment,50000,135,0,1,covered,17
+A,Pickup,1,2.5,ac gas,50000,190,0,1,covered,18
+A,Tipper,2,10,oil change,50000,300,0,0,covered,19
+A,Cargo,3,25,engine tuning,100000,100,0,0,not covered ,10
+B,construction,3,25,engine overhaul,75000,70,0,0,not covered ,20
+A,Light,2,5,body work,50000,300,0,0,not covered ,10
+A,Pickup,1,2.5,paint work,50000,320,1,0,not covered ,15
+B,Tipper,2,10,spark plug,125000,310,0,0,not covered ,25
+A,Cargo,4,25,wheel alignment,100000,340,0,0,not covered ,26
+A,transport,4,10,ac gas,50000,125,0,0,not covered ,28
+C,transport,3,10,oil change,50000,150,0,1,covered,25
+C,transport,2,10,engine tuning,150000,65,0,0,not covered ,23
+D,transport,3,10,engine overhaul,100000,86,0,0,not covered ,22
+C,transport,4,10,body work,75000,145,0,0,not covered ,10
+D,construction,3,25,paint work,50000,100,0,1,covered,15
+A,Light,2,5,wheel alignment,250000,29,0,1,covered,17
+B,Pickup,1,2.5,ac gas,125000,35,0,0,not covered ,18
+A,Tipper,2,10,oil change,100000,53,0,1,covered,10
+B,Cargo,3,25,engine tuning,50000,65,0,0,covered,20
+A,transport,2,10,engine overhaul,50000,86,1,0,not covered ,10
+A,transport,4,10,body work,150000,145,1,1,covered,15
+B,transport,5,10,paint work,100000,100,0,0,not covered ,25
+A,transport,4,10,spark plug,75000,29,1,0,not covered ,26
+A,transport,3,10,wheel alignment,50000,35,0,0,not covered ,28
+C,construction,4,25,ac gas,250000,53,0,0,not covered ,25
+C,Light,2,5,oil change,125000,50,0,0,not covered ,23
+D,Pickup,1,2.5,engine tuning,100000,135,0,0,covered,22
+C,Tipper,2,10,engine overhaul,50000,190,0,0,covered,10
+D,Cargo,4,25,body work,50000,300,0,0,not covered ,15
+A,transport,3,10,paint work,150000,100,0,0,not covered ,17
+B,construction,4,25,spark plug,100000,70,0,0,not covered ,18
+A,Light,2,5,wheel alignment,75000,300,0,0,not covered ,10
+A,Pickup,1,2.5,ac gas,50000,320,0,0,not covered ,20
+A,Tipper,2,10,oil change,50000,310,0,0,not covered ,10
+B,Cargo,3,25,engine tuning,125000,65,0,1,covered,15
+A,transport,3,10,engine overhaul,100000,86,0,0,not covered ,25
+A,transport,4,10,body work,50000,145,0,1,covered,26
+B,transport,3,10,paint work,50000,100,0,0,covered,28
+A,transport,2,10,wheel alignment,150000,29,0,0,covered,25
+A,transport,3,10,ac gas,100000,35,1,0,covered,23
+C,construction,4,25,oil change,75000,53,0,1,covered,22
+C,Light,2,5,engine tuning,50000,50,0,0,covered,10
+D,Pickup,1,2.5,engine overhaul,50000,135,0,0,not covered ,15
+C,Tipper,2,10,body work,125000,190,0,0,not covered ,17
+D,Cargo,4,25,paint work,100000,300,0,0,not covered ,18
+A,transport,2,10,spark plug,50000,100,1,0,not covered ,10
+B,transport,3,10,wheel alignment,50000,70,0,0,not covered ,20
+A,transport,2,10,ac gas,150000,300,0,0,not covered ,10
+B,transport,3,10,oil change,100000,320,0,1,covered,15
+A,transport,4,10,engine tuning,75000,310,0,0,not covered ,25
+A,construction,3,25,engine overhaul,50000,300,0,0,not covered ,26
+B,Light,2,5,body work,250000,320,0,0,not covered ,28
+A,Pickup,1,2.5,paint work,125000,310,0,0,not covered ,25
+A,Tipper,2,10,spark plug,100000,340,0,0,not covered ,23
+C,Cargo,3,25,wheel alignment,50000,125,0,0,not covered ,22
+C,Cargo,4,25,ac gas,50000,150,0,0,not covered ,10
+D,Cargo,3,25,oil change,150000,65,0,0,not covered ,15
+C,Cargo,4,25,engine tuning,100000,86,0,0,not covered ,17
+D,Cargo,3,25,engine overhaul,75000,145,0,1,covered,18
+A,Cargo,4,25,body work,50000,100,0,1,covered,19
+B,Cargo,3,25,paint work,250000,29,0,1,covered,10
+D,Cargo,3,25,wheel alignment,125000,35,0,0,not covered ,20
+C,Cargo,3,25,ac gas,100000,53,0,0,not covered ,10
+D,Cargo,3,25,oil change,50000,50,1,0,not covered ,15
+A,Cargo,3,25,engine tuning,50000,135,1,0,not covered ,25
+B,Cargo,3,25,engine overhaul,150000,190,0,1,covered,26
